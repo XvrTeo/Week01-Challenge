@@ -2,7 +2,7 @@
 
 ## Description:
 
-Per the user story and acceptance criteria, the startup codes in the HTML and CSS files have been refactored to ensure that the webpage adheres to accessibility standards.
+Based on the user story and acceptance criteria, the startup codes in the HTML and CSS files needed to be refactored to ensure that the webpage meets accessibility standards.
 
 ### Screenshot:
 
